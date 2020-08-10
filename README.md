@@ -45,5 +45,18 @@ For this purpose, we use the free currency exchange rate API provided by: https:
   * Create a fact that shows data in tabular format and that can be used as a table in Tableau dashboards
 
 ### Step 2 : Get the relevant exchange rates data from api in data_collection.ipynb file
+* Extract the exchange rates data in df_line_items 
+* We have assumed all transactions time zone is EDT
+* Performed data cleaning
+
+### Step 2 : Export the data to SQL tables in data_models.ipynb file
+* In this step, we have cleaned data fro any duplicates.
+* Created a SQL Server connection. Note : Please change the connnection string values as per your system
+* Created SQL tables and inserted the pandas dataframes data into these SQL tables:
+  * orders
+  * customers
+  * line_items
+  * exchange_rates
+* As the data is not large enough, we are creating a 'sales_fact' that will store the data in tabular format, which can then be accessed through any BI tool. 
 
  
