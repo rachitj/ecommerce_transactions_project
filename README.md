@@ -50,13 +50,18 @@ For this purpose, we use the free currency exchange rate API provided by: https:
 * Performed data cleaning
 
 ### Step 2 : Export the data to SQL tables in data_models.ipynb file
-* In this step, we have cleaned data fro any duplicates.
+* In this step, we have cleaned data for any duplicates.
 * Created a SQL Server connection. Note : Please change the connnection string values as per your system
 * Created SQL tables and inserted the pandas dataframes data into these SQL tables:
   * orders
   * customers
   * line_items
   * exchange_rates
+ 
+ ### Step 3 : Creation of fact_sales in SQL Server 2019
 * As the data is not large enough, we are creating a 'sales_fact' that will store the data in tabular format, which can then be accessed through any BI tool. 
+* sales_fact SQL query and CSV data is provided here
+* Note : The main challenge was to map the exchange rates to order-dates as for some days, exchange rates are not provided due to holidays or weekends. So a correct mapping needs to be done
+* Checked for duplicates and data quality
 
  
