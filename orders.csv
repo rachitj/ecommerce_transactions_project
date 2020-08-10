@@ -1,4 +1,4 @@
-,id,cust_id,total_price,created_at,line_item_id,orders_day,orders_date
+,order_id,cust_id,total_price,created_at,line_item_id,orders_day,orders_date
 0,8369263756632563,47178,79.39,2020-03-07 14:31:11,610448,Saturday,2020-03-07
 1,8369263756632563,47178,79.39,2020-03-07 14:31:11,997208,Saturday,2020-03-07
 2,7262170348080494,94720,86.98,2020-03-01 09:16:30,997208,Sunday,2020-03-01
