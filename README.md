@@ -31,3 +31,19 @@ We would like you to consolidate your orders along with an exchange rate for the
 For this purpose, we use the free currency exchange rate API provided by: https://exchangeratesapi.io/
 
 ## Steps:
+
+### Step 1 : Get the relevant orders data from order.json file in data_collection.ipynb file
+* In this step, we have extracted the orders data from order.json file.
+* The orders data is in a nested dictioanry format.
+* Extract the orders data in 3 different dataframes namely :
+  * df_orders : Summary of orders
+  * df_customers : information about customers
+  * df_line_items : Line item details
+* The main idea is to think data in terms of data modelling. Once we get the dimensions and facts, based on the requirements and context, we can determeine if we should 
+  * Create a star schema
+  * Create a snowflake schema
+  * Create a fact that shows data in tabular format and that can be used as a table in Tableau dashboards
+
+### Step 2 : Get the relevant exchange rates data from api in data_collection.ipynb file
+
+ 
