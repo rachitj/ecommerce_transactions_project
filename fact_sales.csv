@@ -1,0 +1,38 @@
+﻿order_id,created_at,orders_date,order_day,cust_id,cust_name,cust_email,line_item_id,product_id,product_sku,product_name,exchange_date,exchange_rate,exchange_base_currency,exchanged_to_currency,product_price,order_total_price
+1.10485E+15,44:05.0,2/22/2020,Saturday,94720,Emile Tumson,emile.tumson@gmail.com,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,2/21/2020,1.325803166,USD,CAD,36.99,86.98
+1.10485E+15,44:05.0,2/22/2020,Saturday,94720,Emile Tumson,emile.tumson@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,2/21/2020,1.325803166,USD,CAD,49.99,86.98
+1.2883E+15,53:34.0,1/19/2020,Sunday,23955,Daniel Smith,daniel.smith@gmail.com,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,1/17/2020,1.305185452,USD,CAD,29.4,29.4
+2.07964E+15,33:57.0,2/19/2020,Wednesday,23955,Daniel Smith,daniel.smith@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,2/18/2020,1.326275888,USD,CAD,5.99,55.98
+2.07964E+15,33:57.0,2/19/2020,Wednesday,23955,Daniel Smith,daniel.smith@gmail.com,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,2/18/2020,1.326275888,USD,CAD,49.99,55.98
+2.21238E+15,26:52.0,1/22/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,1/21/2020,1.305623032,USD,CAD,5.99,142.96
+2.21238E+15,26:52.0,1/22/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,1/21/2020,1.305623032,USD,CAD,36.99,142.96
+2.21238E+15,26:52.0,1/22/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,1/21/2020,1.305623032,USD,CAD,49.99,142.96
+2.21238E+15,26:52.0,1/22/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,1/21/2020,1.305623032,USD,CAD,49.99,142.96
+2.24984E+15,15:51.0,3/13/2020,Friday,47178,William Doe,william.doe@gmail.com,604665,510650809,PAX-3,Pax 3 Vaporizer,3/12/2020,1.38113879,USD,CAD,259.99,309.98
+2.24984E+15,15:51.0,3/13/2020,Friday,47178,William Doe,william.doe@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,3/12/2020,1.38113879,USD,CAD,49.99,309.98
+2.36662E+15,46:12.0,1/18/2020,Saturday,23955,Daniel Smith,daniel.smith@gmail.com,604665,510650809,PAX-3,Pax 3 Vaporizer,1/17/2020,1.305185452,USD,CAD,259.99,259.99
+4.28085E+15,59:46.0,3/10/2020,Tuesday,23955,Daniel Smith,daniel.smith@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,3/9/2020,1.36286662,USD,CAD,5.99,55.98
+4.28085E+15,59:46.0,3/10/2020,Tuesday,23955,Daniel Smith,daniel.smith@gmail.com,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,3/9/2020,1.36286662,USD,CAD,49.99,55.98
+5.05873E+15,27:24.0,3/15/2020,Sunday,59933,Ethan Jones,ethan.jones@gmail.com,604665,510650809,PAX-3,Pax 3 Vaporizer,3/13/2020,1.385896974,USD,CAD,259.99,309.98
+5.05873E+15,27:24.0,3/15/2020,Sunday,59933,Ethan Jones,ethan.jones@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,3/13/2020,1.385896974,USD,CAD,49.99,309.98
+5.23593E+15,12:33.0,3/24/2020,Tuesday,94720,Emile Tumson,emile.tumson@gmail.com,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,3/23/2020,1.43837522,USD,CAD,36.99,36.99
+5.30719E+15,40:57.0,3/12/2020,Thursday,47178,William Doe,william.doe@gmail.com,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,3/11/2020,1.374294284,USD,CAD,36.99,86.98
+5.30719E+15,40:57.0,3/12/2020,Thursday,47178,William Doe,william.doe@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,3/11/2020,1.374294284,USD,CAD,49.99,86.98
+5.79196E+15,52:40.0,3/24/2020,Tuesday,47178,William Doe,william.doe@gmail.com,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,3/23/2020,1.43837522,USD,CAD,36.99,36.99
+5.82555E+15,59:26.0,1/1/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,12/31/2019,1.299448104,USD,CAD,5.99,55.98
+5.82555E+15,59:26.0,1/1/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,12/31/2019,1.299448104,USD,CAD,49.99,55.98
+6.25509E+15,41:30.0,1/5/2020,Sunday,94720,Emile Tumson,emile.tumson@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,1/3/2020,1.298196824,USD,CAD,5.99,55.98
+6.25509E+15,41:30.0,1/5/2020,Sunday,94720,Emile Tumson,emile.tumson@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,1/3/2020,1.298196824,USD,CAD,49.99,55.98
+6.4314E+15,16:07.0,3/12/2020,Thursday,23955,Daniel Smith,daniel.smith@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,3/11/2020,1.374294284,USD,CAD,5.99,315.97
+6.4314E+15,16:07.0,3/12/2020,Thursday,23955,Daniel Smith,daniel.smith@gmail.com,604665,510650809,PAX-3,Pax 3 Vaporizer,3/11/2020,1.374294284,USD,CAD,259.99,315.97
+6.4314E+15,16:07.0,3/12/2020,Thursday,23955,Daniel Smith,daniel.smith@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,3/11/2020,1.374294284,USD,CAD,49.99,315.97
+7.26217E+15,16:30.0,3/1/2020,Sunday,94720,Emile Tumson,emile.tumson@gmail.com,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,2/28/2020,1.344356382,USD,CAD,36.99,86.98
+7.26217E+15,16:30.0,3/1/2020,Sunday,94720,Emile Tumson,emile.tumson@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,2/28/2020,1.344356382,USD,CAD,49.99,86.98
+7.63874E+15,28:01.0,3/8/2020,Sunday,59933,Ethan Jones,ethan.jones@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,3/6/2020,1.342007763,USD,CAD,5.99,35.39
+7.63874E+15,28:01.0,3/8/2020,Sunday,59933,Ethan Jones,ethan.jones@gmail.com,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,3/6/2020,1.342007763,USD,CAD,29.4,35.39
+7.72206E+15,17:03.0,1/1/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,12/31/2019,1.299448104,USD,CAD,36.99,36.99
+8.36926E+15,31:11.0,3/7/2020,Saturday,47178,William Doe,william.doe@gmail.com,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,3/6/2020,1.342007763,USD,CAD,29.4,79.39
+8.36926E+15,31:11.0,3/7/2020,Saturday,47178,William Doe,william.doe@gmail.com,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,3/6/2020,1.342007763,USD,CAD,49.99,79.39
+8.66298E+15,22:49.0,2/5/2020,Wednesday,94720,Emile Tumson,emile.tumson@gmail.com,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,2/4/2020,1.327932658,USD,CAD,5.99,5.99
+9.78685E+15,43:24.0,3/18/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,3/17/2020,1.412493171,USD,CAD,29.4,79.39
+9.78685E+15,43:24.0,3/18/2020,Wednesday,59933,Ethan Jones,ethan.jones@gmail.com,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,3/17/2020,1.412493171,USD,CAD,49.99,79.39
