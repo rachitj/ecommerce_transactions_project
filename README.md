@@ -76,4 +76,5 @@ For this purpose, we use the free currency exchange rate API provided by: https:
 
 ## Resources
 * https://github.com/namasteTechnologies/data-analyst-challenge
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etftrends.com%2Fmulti-asset-channel%2Fnew-report-says-ecommerce%2F&psig=AOvVaw1H08IUAO8NjM2h5WsOiK5o&ust=1597211503110000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODr8Ni6kusCFQAAAAAdAAAAABAK
 
