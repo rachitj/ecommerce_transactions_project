@@ -23,7 +23,7 @@
   * Product ID
   * Product SKU
   * Product Name
-  * Price
+  * Pricez
 To keep it simple, we removed taxes, discounts. Note also that all prices are in USD (US Dollars).
 
 ### Exchange Rates Data 
