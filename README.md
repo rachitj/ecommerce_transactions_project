@@ -1,4 +1,4 @@
-![]https://github.com/rachitj/ecommerce_transactions_project/blob/master/ecommerce-logo.jpg
+![](https://github.com/rachitj/ecommerce_transactions_project/blob/master/ecommerce-logo.jpg)
 
 ## Description
 "Company X" sells cannabis online via their e-commerce Shopify platform. To fulfill their reporting requirements, the Company X Finance department asks you to create a report so they can process their Q1 financial results. This exercise is a simplified view, focused on the Shopify orders in Q1.
