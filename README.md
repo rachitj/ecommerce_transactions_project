@@ -67,4 +67,8 @@ For this purpose, we use the free currency exchange rate API provided by: https:
 ### Step 3 : Create interactive tableau dashboards
 * [Q1 Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysis/Q1Dashboard?publish=yes)
 * [Monthly Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
- 
+
+[Q1 Analysis image](https://github.com/rachitj/ecommerce_transactions_project/blob/master/q1_analysis.png)
+
+## Resources
+* https://github.com/namasteTechnologies/data-analyst-challenge
