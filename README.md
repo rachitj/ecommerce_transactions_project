@@ -49,7 +49,7 @@ For this purpose, we use the free currency exchange rate API provided by: https:
 * We have assumed all transactions time zone is EDT for Toronto,Canada
 * Performed data cleaning
 
-### Step 2 : Export the data to SQL tables in data_models.ipynb file
+### Step 3 : Export the data to SQL tables in data_models.ipynb file
 * In this step, we have cleaned data for any duplicates.
 * Created a SQL Server connection. Note : Please change the connnection string values as per your system
 * Created SQL tables and inserted the pandas dataframes data into these SQL tables:
@@ -58,13 +58,13 @@ For this purpose, we use the free currency exchange rate API provided by: https:
   * line_items
   * exchange_rates
  
- ### Step 3 : Creation of fact_sales in SQL Server 2019
+ ### Step 4 : Creation of fact_sales in SQL Server 2019
 * As the data is not large enough, we are creating a 'sales_fact' that will store the data in tabular format, which can then be accessed through any BI tool. 
 * sales_fact SQL query and CSV data is provided here
 * Note : The main challenge was to map the exchange rates to order-dates as for some days, exchange rates are not provided due to holidays or weekends. So a correct mapping needs to be done
 * Checked for duplicates and data quality
 
-### Step 4 : Create interactive tableau dashboards
+### Step 5 : Create interactive tableau dashboards
 * [Q1 Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysis/Q1Dashboard?publish=yes)
 * [Monthly Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
 
