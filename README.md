@@ -68,7 +68,10 @@ For this purpose, we use the free currency exchange rate API provided by: https:
 * [Q1 Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysis/Q1Dashboard?publish=yes)
 * [Monthly Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
 
+#### Q1 Analysis dashboard image
 ![Q1 Analysis](https://github.com/rachitj/ecommerce_transactions_project/blob/master/q1_analysis.png)
+
+#### Monthly Analysis dashboard image
 ![Monthly Analysis](https://github.com/rachitj/ecommerce_transactions_project/blob/master/monthly_analysis.png)
 
 ## Resources
