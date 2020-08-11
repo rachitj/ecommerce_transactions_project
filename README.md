@@ -64,4 +64,7 @@ For this purpose, we use the free currency exchange rate API provided by: https:
 * Note : The main challenge was to map the exchange rates to order-dates as for some days, exchange rates are not provided due to holidays or weekends. So a correct mapping needs to be done
 * Checked for duplicates and data quality
 
+### Step 3 : Create interactive tableau dashboards
+[Q1 Analysis](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysis/Q1Dashboard?publish=yes)
+[Monthly Analysis](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
  
